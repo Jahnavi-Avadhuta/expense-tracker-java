@@ -208,9 +208,9 @@ Computer Science Graduate
 
 Software Engineer | Java | Spring Boot | Python | AI & Data Science Enthusiast
 
-🌐 Portfolio: **YOUR_PORTFOLIO_URL**
+🌐 Portfolio: [**YOUR_PORTFOLIO_URL**](https://portfolio-website-zeta-blond-34.vercel.app/)
 
-💼 LinkedIn: **YOUR_LINKEDIN_URL**
+💼 LinkedIn: [**YOUR_LINKEDIN_URL**](https://www.linkedin.com/in/jahnavi-avadhuta-879b4232b/)
 
 💻 GitHub: https://github.com/Jahnavi-Avadhuta
 
